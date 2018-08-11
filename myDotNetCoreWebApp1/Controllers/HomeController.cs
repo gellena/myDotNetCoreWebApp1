@@ -17,7 +17,7 @@ namespace myDotNetCoreWebApp1.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Your application description page. HERE 2";
 
             return View();
         }
